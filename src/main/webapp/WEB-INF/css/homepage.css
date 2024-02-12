@@ -1,0 +1,24 @@
+body {
+    /* background-image:
+        url("https://img.freepik.com/free-photo/beautiful-tree-middle-field-covered-with-grass-with-tree-line-background_181624-29267.jpg?w=2000"); */
+    height: 768px;
+    width: 1366px;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+img{
+	border-radius: 450%;
+	width: 150px;
+	height: 150px;
+}
+img.profile{
+	width: 900px; 
+	height: 600px;
+}
+
+img.p{
+	right: 30px;
+}
