@@ -1,2 +1,2 @@
-# Facebook-mini
-Social media like Facebook
+# SocialMedia
+Social media project like Facebook
